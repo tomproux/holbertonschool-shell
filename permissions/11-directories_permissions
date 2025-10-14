@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -d chmod a+x /root
+find . -type d -exec chmod a+x {} \;
