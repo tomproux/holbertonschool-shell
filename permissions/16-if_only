@@ -1,2 +1,2 @@
 #!/bin/bash
-chown guillaume hello adduser vincent
+chown vincent hello id guillaume
