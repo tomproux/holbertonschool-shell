@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d chmod a+x /holbertonschool-shell
+chmod 111 holbertonschool-shell
