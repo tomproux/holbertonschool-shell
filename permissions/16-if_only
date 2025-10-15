@@ -1,2 +1,2 @@
 #!/bin/bash
-find -u guillaume chown vincent hello
+chown -R --from=500 guillaume hello
