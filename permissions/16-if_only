@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -h guillaume chown vincent hello
+sudo -u guillaume chown vincent hello
