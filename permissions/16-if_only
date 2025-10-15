@@ -1,2 +1,2 @@
 #!/bin/bash
-sudoedit -u guillaume chown vincent hello
+chown guillaume hello adduser vincent
