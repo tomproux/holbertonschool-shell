@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello id guillaume
+find / -user guillaume -exec chown vincent hello
