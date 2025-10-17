@@ -1,2 +1,2 @@
 #!/bin/bash
-export $PATH=11 | echo $PATH
+export $PATH='9' | echo $PATH
