@@ -1,2 +1,2 @@
 #!/bin/bash
-export "PATH=$PATH" | wc $PATH | echo $PATH
+export "PATH=$PATH" | echo $PATH
