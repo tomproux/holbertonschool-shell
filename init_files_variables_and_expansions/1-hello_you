@@ -1,0 +1,2 @@
+#!/bin/bash
+if(user == 1){printf("hello user");}
