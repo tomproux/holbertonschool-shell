@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'aa' 'zz' |  'oo'
+export 'aa' 'zz' | tr 'oo'
